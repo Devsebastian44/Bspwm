@@ -32,7 +32,7 @@ Alt-a
 
 ```bash
 ===========================================================================================================
-windows + r para recargar bspwm
+windows + r para recargar el escritorio
 windows + enter abre terminal
 windows + w cierra terminal
 windows + d abre el buscador de aplicaciones
