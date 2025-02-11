@@ -132,6 +132,7 @@ chmod +x ~/.config/bin/firefox.sh
 chmod +x ~/.config/bin/thunar.sh
 chmod +x ~/.config/bin/code.sh
 chmod +x ~/.config/bin/ethernet_status.sh
+chmod +x ~/.config/polybar/scripts/powermenu
 chmod +x ~/.config/polybar/launch.sh
 sudo chmod +x /usr/local/bin/whichSystem.py
 sudo chmod +x /usr/local/bin/screenshot
